@@ -1,5 +1,5 @@
 # DataScience-CodiGo
 
-# Reto 01
-main.py
+# Reto 01 - cambio
+/main.py
 
